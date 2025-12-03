@@ -12,4 +12,4 @@ Deployment and run instructions:
 9. On v0, you will be allowed to view the website as anonymous user.
 10. On v1, you will be redirected to a login page for authentication.
 11. To stop the running services: sudo docker-compose stop.
-12. 11. To start the services again: sudo docker-compose start.
+12. To start the services again: sudo docker-compose start.
